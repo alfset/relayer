@@ -4,7 +4,7 @@
     "key": "default",
     "chain-id": "planq_707-2",
     "rpc-addr": "https://rpc.planq.network:443",
-    "account-prefix": "planq",
+    "account-prefix": "plq",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
     "gas-prices": "0.001uplanq",
